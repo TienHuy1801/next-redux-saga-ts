@@ -1,0 +1,30 @@
+.container {
+    min-height: 100vh;
+    padding: 0 0.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+.title {
+    margin: 20px auto;
+    font-size: 32px;
+}
+.tag {
+    margin: 20px auto;
+    font-size: 18px;
+}
+.datapoint {
+    font-size: 18px;
+    margin-top: 10px;
+}
+.address {
+    margin-top: 20px;
+}
+.address div {
+    font-size: 14px;
+}
+.details {
+    margin-bottom: 30px;
+}
